@@ -1,0 +1,37 @@
+
+div
+{
+    border: solid red 4px;
+    height: 500px;
+}
+.d1,.d2{
+     border: solid silver 3px;
+     width: 200px;
+     height: 100px;
+     margin: auto;
+     margin-top: auto;
+    margin-bottom: 100px;
+ }
+div.d0
+{
+    width:600px;
+    height: 500px;
+}
+span
+{
+    border: solid silver 3px;
+   display:block ;
+    width: 100px;
+   height: 100px;
+   position: absolute;
+
+}
+.d2
+{
+    margin-top: 100px;
+    float: right;
+}
+.d1
+{
+    float: left;
+}

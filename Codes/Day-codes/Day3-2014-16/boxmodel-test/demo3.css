@@ -1,0 +1,28 @@
+
+#number
+{
+    border:5px solid #69B;
+    padding-right: 5em;
+}
+h2 {
+    border-style:solid ;
+    border-color: #334455;
+    border-right-color: red;
+    padding-left: 18cm;
+}
+span
+{
+    padding-left: 18cm;
+
+}
+p.a
+{
+    border-style: ridge;
+    border-width: 10px 10px 10px 15px ;
+    border-left-color: chartreuse;
+    border-top-color: red;
+    border-bottom-color: aqua;
+    border-right-color: orchid;
+    padding-left: 30%;
+    margin-left: 10cm;
+}

@@ -1,0 +1,50 @@
+
+div
+{
+    color:green;
+}
+.a
+{
+    color: red;
+}
+#b1
+{
+    font-weight: bolder;
+}
+
+[type="text"]
+{
+    background-color:deepskyblue;
+}
+
+#data:first-child
+{
+    font-weight: bolder;
+
+}
+#data:first-child+td
+{
+    font-family: monospace;
+}
+
+strong
+{
+    color: red;
+}
+.carrot
+{
+    color: orange;
+}
+.spinach
+{
+    color:green;
+}
+#first
+{
+    font-style: italic;
+}
+.second
+{
+    color:blue;
+
+}

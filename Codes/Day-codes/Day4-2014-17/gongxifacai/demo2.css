@@ -1,0 +1,27 @@
+div
+ {
+     border: 2px silver solid;
+height: 400px;
+width:60px;
+
+}
+
+.d2
+{
+    float: right;
+    font-size: 60px;
+    background-color: red;
+}
+.d1
+{
+    float: left;
+    font-size:60px;
+    background-color: red;
+}
+.od1
+{
+    border: 2px solid salmon;
+    width: 500px;
+    height: 600px;
+
+}

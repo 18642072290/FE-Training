@@ -1,0 +1,20 @@
+#log_d1
+{
+    width: 50%;
+
+    margin: auto;
+    margin-top: 10%;
+
+}
+#log_d2
+{
+    margin-left: 18%;
+}
+strong
+{
+    font-style: oblique;
+    font-family: fantasy;
+    font-size: 40px;
+    margin-left: 13%;
+    color: darkgray;
+}

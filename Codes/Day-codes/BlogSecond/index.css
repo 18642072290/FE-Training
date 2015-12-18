@@ -1,0 +1,55 @@
+
+li
+{
+    float: right;
+   font-size: 18px ;
+    padding-left: 10px;
+
+}
+
+.in_d1
+{
+    border: hidden ;
+    height: 120px;
+    background-color:cornflowerblue;
+}
+.in_d1_2
+{
+  width: 300px;
+    float: right;
+    padding-top: 10px; ;
+}
+.in_d1_3
+{
+    width:300px ;
+    font-family: fantasy;
+    font-size: 30px;
+    float: left;
+    padding-top: 25px;
+}
+
+
+.in_d2
+{
+    border: solid 4px darkgreen;
+   height:500px;
+    background-color: aliceblue;
+}
+.in_d2_1
+{
+ float: left;
+    padding-top: 3%;
+}
+
+.in_d2_2
+{
+    float:right;
+}
+
+
+
+
+
+
+
+

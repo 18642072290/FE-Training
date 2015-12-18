@@ -1,0 +1,23 @@
+div.a1
+{
+    border: 3px red solid;
+    width: 150px;
+    height: 200px;
+
+
+}
+#p1 {
+    border: 2px solid royalblue;
+    width: 30px;
+    height: 30px;
+    foloat:left;
+
+
+}
+#p2
+{
+    border: silver 2px solid;
+    height: 30px;
+    width: 30px;
+    float: right;
+}

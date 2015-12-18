@@ -1,0 +1,24 @@
+
+div.a {
+    width: 38%;
+    background-color: #6699BB;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 38%;
+    margin-top: 20%;
+
+}
+span
+{
+    padding-left: 26px;
+}
+#ou1
+{
+    position: absolute;
+    top: 150px;
+    left: 100px;
+}
+div.a
+{
+    position: relative;
+}

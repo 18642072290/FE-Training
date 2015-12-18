@@ -1,0 +1,25 @@
+li
+{
+    list-style: none;
+}
+
+#login_d1
+{
+    height: 250px;
+    width: 350px;
+    border: groove silver 3px;
+  
+    margin: auto;
+   margin-top: 20%;
+    background-image: url("pic/login.png");
+}
+#sb1
+{
+    margin-left: 25%;
+
+}
+.login_d2
+{
+    margin-left:15%;
+    margin-top: 20%;
+}

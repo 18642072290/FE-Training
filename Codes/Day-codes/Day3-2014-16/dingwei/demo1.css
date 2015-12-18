@@ -1,0 +1,18 @@
+div
+{border: red 2px solid}
+
+.ab,h1
+{
+    text-align: center;
+}
+.kuai{
+    width:600px;
+    height: 400px;
+    position:relative ;
+}
+.wenzi
+{
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}

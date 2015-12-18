@@ -1,0 +1,18 @@
+ul
+{
+    background-color: yellow;
+    margin: 12px;
+    padding: 3px;
+}
+li
+{
+    color:white;
+    background-color: blue;
+    margin: 12px;
+    padding: 12px 0px 12px 12 px;
+    list-style: none;
+}
+li.wd
+{
+    border: dashed medium lime;
+}
